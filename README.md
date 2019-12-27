@@ -6,4 +6,4 @@
 ## What we need ?:
   We need :
     Python3,
-    terminal-notifier, to install: sudo gem install terminal-notifier
+    terminal-notifier: use install.sh to install
